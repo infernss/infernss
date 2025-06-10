@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @infernss
 - 😄 Pronouns: she/her
--  slytherine baeby 💚
+- html/css/javascript
+- python//ml
 
 <!---
 infernss/infernss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
