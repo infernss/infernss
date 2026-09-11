@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infernss
+- 👋 Hi, I’m vidhi
 - 😄 Pronouns: she/her
 - html/css/javascript
 - python//ml
